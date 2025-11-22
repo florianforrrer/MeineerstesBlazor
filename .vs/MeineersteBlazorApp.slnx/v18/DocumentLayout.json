@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Startklar\\Desktop\\MeineersteBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AABFFEB-BA7B-4629-B729-91FE1144F1CF}|MeineersteBlazorApp\\MeineersteBlazorApp.csproj|c:\\users\\startklar\\desktop\\meineersteblazorapp\\meineersteblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AABFFEB-BA7B-4629-B729-91FE1144F1CF}|MeineersteBlazorApp\\MeineersteBlazorApp.csproj|solutionrelative:meineersteblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AABFFEB-BA7B-4629-B729-91FE1144F1CF}|MeineersteBlazorApp\\MeineersteBlazorApp.csproj|c:\\users\\startklar\\desktop\\meineersteblazorapp\\meineersteblazorapp\\components\\pages\\meineseite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AABFFEB-BA7B-4629-B729-91FE1144F1CF}|MeineersteBlazorApp\\MeineersteBlazorApp.csproj|solutionrelative:meineersteblazorapp\\components\\pages\\meineseite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Startklar\\Desktop\\MeineersteBlazorApp\\MeineersteBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MeineersteBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Startklar\\Desktop\\MeineersteBlazorApp\\MeineersteBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MeineersteBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T14:08:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeineSeite.razor",
+              "DocumentMoniker": "C:\\Users\\Startklar\\Desktop\\MeineersteBlazorApp\\MeineersteBlazorApp\\Components\\Pages\\MeineSeite.razor",
+              "RelativeDocumentMoniker": "MeineersteBlazorApp\\Components\\Pages\\MeineSeite.razor",
+              "ToolTip": "C:\\Users\\Startklar\\Desktop\\MeineersteBlazorApp\\MeineersteBlazorApp\\Components\\Pages\\MeineSeite.razor",
+              "RelativeToolTip": "MeineersteBlazorApp\\Components\\Pages\\MeineSeite.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T14:06:39.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
