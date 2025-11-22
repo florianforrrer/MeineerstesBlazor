@@ -38,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Startklar/Desktop/MeineersteBlazorApp/MeineersteBlazorApp/Components/Pages/MeineSeite.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNZWluZVNlaXRlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Startklar/Desktop/MeineersteBlazorApp/MeineersteBlazorApp/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,3 +65,7 @@ build_metadata.AdditionalFiles.CssScope = b-2rfiyfymsg
 [C:/Users/Startklar/Desktop/MeineersteBlazorApp/MeineersteBlazorApp/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7lh4dznaoe
+
+[C:/Users/Startklar/Desktop/MeineersteBlazorApp/MeineersteBlazorApp/Components/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

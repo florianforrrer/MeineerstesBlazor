@@ -84,3 +84,6 @@ C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net
 C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\MeineersteBlazorApp.pdb
 C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\MeineersteBlazorApp.genruntimeconfig.cache
 C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\ref\MeineersteBlazorApp.dll
+C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\MeineersteBlazorApp.RazorAssemblyInfo.cache
+C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\MeineersteBlazorApp.RazorAssemblyInfo.cs
+C:\Users\Startklar\Desktop\MeineersteBlazorApp\MeineersteBlazorApp\obj\Debug\net10.0\MeineersteBlazorApp.sourcelink.json
